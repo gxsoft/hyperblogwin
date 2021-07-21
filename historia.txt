@@ -1,0 +1,7 @@
+Este es el primer archivo de Proyecto1
+01 primer linea
+02 segunda linea
+03 tercera linea
+
+acá pongo la edad. 61 años
+19:19hs
