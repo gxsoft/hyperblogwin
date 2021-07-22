@@ -1,0 +1,379 @@
+    1  d:
+    2  cd d;cd d:pwd
+    3  mc
+    4  cd 
+    5  pwd
+    6  cd /d
+    7  md Platzi
+    8  mkdir Platzi
+    9  cd Platzi
+   10  dir
+   11  mkdir git
+   12  cd git
+   13  mkdir project1
+   14  cd project1/
+   15  code historia.txt
+   16  git init
+   17  code
+   18  ls -al
+   19  git status
+   20  git add histori.txt
+   21  git add historia.txt
+   22  git status
+   23  git commit -m "primer commit git" 
+   24  git log
+   25  clear
+   26  history
+   27  git config --list --show-origin
+   28  git config --global
+   29  git config --global user.name "gab"
+   30  git config --list --show-origin
+   31  git status
+   32  ls
+   33  git add .
+   34  git status
+   35  pwd
+   36  ls
+   37  git add .
+   38  git status
+   39  ls
+   40  git init
+   41  git add .
+   42  git status
+   43  git status
+   44  history
+   45  git commit -m "segundo commit git, lineas"
+   46  git add .
+   47  git commit -m "segundo commit git, lineas"
+   48  git status
+   49  cat historia.txt
+   50  git commit -m "tercer commit git, lineas"
+   51  git status
+   52  git commit -m "tercer commit git, lineas"
+   53  git commit -m "tercer commit git, años"
+   54  git add .
+   55  git commit -m "tercer commit git, años"
+   56  git log
+   57  cd /d
+   58  pwd
+   59  ls
+   60  cd Platzi
+   61  cd git
+   62  cd project1
+   63  ls -al
+   64  mkdir css
+   65  code .
+   66  git add .
+   67  git status
+   68  git commit -m "blogspotlocal.html & ccs/estilos.css hecho de nuevo"
+   69  pwd
+   70  push remote
+   71  git push remote
+   72  git push remote add origin https://github.com/gxsoft/PlatziBiografiaTXT
+   73  git push remote add https://github.com/gxsoft/PlatziBiografiaTXT
+   74  git push -u origin main
+   75  git add .
+   76  echo "# git projetc1, git Bash" >>README.md
+   77  git add .
+   78  git init
+   79  git add .
+   80  git commit -m "será 1st commit?  o acumulará otros?"
+   81  git branch -m main
+   82   git remote
+   83  git remote add origin https://github.com/gxsoft/gitlocal.git
+   84  git push -u origin main
+   85  git pull
+   86  git push -u origin main
+   87  git push -u origin main
+   88  git status
+   89  git pull
+   90  git remote -v
+   91  git pull origin main
+   92  gity config
+   93  git config
+   94  git remote --help
+   95  git --help
+   96  git pull 
+   97  git pull remote main
+   98  git pull https://github.com/gxsoft/gitlocal main
+   99  clear
+  100  ls -al
+  101  code .
+  102  git status
+  103  git commit -am " al main del Blogpost con CSS (con git commit -am que hace add + commit)"
+  104  git log
+  105  git log -stat
+  106  git log --stat
+  107  git status
+  108  git show
+  109  git branch cabecera
+  110  git status
+  111  git show
+  112  clear
+  113  git show
+  114  git status
+  115  git checkout cabecera
+  116  clear
+  117  git status
+  118  git status
+  119  git add blogpostlocal.html 
+  120  git commit -m "Estructura inicial de cabecera"
+  121  git status
+  122  git show
+  123  git log
+  124  q
+  125  git checkout main
+  126  git log
+  127  cleart
+  128  clear
+  129  git log
+  130  git checkout cabecera
+  131  git add .
+  132  git push
+  133  git push --set-upstream origin cabecera
+  134  git branch
+  135  git checkout main
+  136  git checkout cabecera
+  137  git status
+  138  git show
+  139  clear
+  140  git show
+  141  git log
+  142  git show
+  143  clear
+  144  git show
+  145  git commit -am "Finalizada la cabecera con dise~no Azul, y Naranja"
+  146  history
+  147  133
+  148   git push --set-upstream origin cabecera
+  149   git push --set-upstream origin cabecera
+  150  git checkout main
+  151   git push --set-upstream origin main
+  152   git push --set-upstream origin main
+  153   git push origin main
+  154  git pull
+  155  git pull remote main
+  156  git add .
+  157  git commit -m "main, con nuevo parrafo agregado"
+  158  git pull remote main
+  159  git pull
+  160  git branch --set-upstream-to=origin/main
+  161  git pull
+  162  git pull remote main
+  163  git config pull.rebase false
+  164  git pull remote main
+  165  git branch --set-upstream-to=origin/main
+  166  git pull remote main
+  167  git add .
+  168  git commit -m "main, con nuevo parrafo agregado"
+  169  git commit -m "main, con nuevo parrafo agregado COURIER"
+  170  git pull
+  171  git log
+  172  git sho
+  173  git show
+  174  git checkout cabecera
+  175  git checkout main
+  176  git branch
+  177  git merge cabecera "merge MAIN con Cabecera"
+  178  git commit -am "Typography Verdana"
+  179  git branch
+  180  git checkout cabecera
+  181  git pull
+  182  history
+  183  148
+  184  git push --set-upstream origin cabecera
+  185  git checkout main
+  186  git merge cabecera
+  187  git commit -am "main, merged with cabecera OK"
+  188  git commit -am "main, merged with cabecera OK"
+  189  git push
+  190  git pull
+  191  git checkout cabecera
+  192  git commit -am "generando Comflicto RED, body"
+  193  git checkout main
+  194  git commit -am "Puece MASTER en Main, y Azul, + subscripcion"
+  195  git show
+  196  git merge cabecera
+  197  git log
+  198  git status
+  199  git commit -am "Final, con conflicto solucionado GREAT"
+  200  git status
+  201  git commit -am "Final, FINAL, con conflicto solucionado GREAT"
+  202  git cheackout cabecera
+  203  git checkout cabecera
+  204  git pull
+  205  checkout main
+  206  git checkout main
+  207  git pull
+  208  mc
+  209  cd /d/platzi/git/project1
+  210  code .
+  211  git status
+  212  add .
+  213  commit -am "Conflict superated - VS Code is Amazing"
+  214  git commit -am "Conflict superated - VS Code is Amazing"
+  215  git log --status
+  216  git show --status
+  217  git show 
+  218  git show --stat
+  219  pwd
+  220  git remote add origin https://github.com/gxsoft/hyperblogwin.git
+  221  cd /e
+  222  cd platzi
+  223  cd git
+  224  cd project2
+  225  git init
+  226  git branch -m main
+  227  git init
+  228  git add .
+  229  git commit -m "initial commit disk e: , complete"
+  230  git status
+  231  clear
+  232  git remote add origin https://github.com/gxsoft/hyperblogwin.git
+  233  git push
+  234  ls -al
+  235  git push origin main
+  236  git push origin main
+  237  git pull origin main
+  238  git pull origin main --allow-unrelated-histories
+  239  code .
+  240  git commit -am "PUDE hacer algo que NO podia, pull the Unrelated=histories con el commando git: $ [git pull origin main --allow-unrelated-histories]"
+  241  git push
+  242  git push --set-upstream origin main
+  243  code .
+  244  code .
+  245  git pull
+  246  git branch
+  247  cd
+  248  cd /e
+  249  cd platzi
+  250  ls
+  251  cd git
+  252  ls
+  253  git config -l
+  254  e/
+  255  cd /e
+  256  cd /platzi/ssh
+  257  cd /platzi
+  258  cd
+  259  cd /e
+  260  pwd
+  261  cd platzi
+  262  cd ssh
+  263  ssh-keygen -t rsa -b 4096 -C "gxsoft@gmail.com"
+  264  eval $(ssh-agent -s)
+  265  mc
+  266  cd /e/platzi/ssh
+  267  pwd
+  268  ~
+  269  cd/
+  270  cd /
+  271  cd ~
+  272  ~
+  273  cd /e/platzi/ssh
+  274  pwd
+  275  cd ..
+  276  ls -al
+  277  cd git
+  278  ls -al
+  279  cd project2
+  280  ls -al
+  281  ls -al
+  282  git remote v
+  283  git remote -v
+  284  git remote set-url origin git@github.com:gxsoft/hyperblogwin.git
+  285  git remote -v
+  286  code .
+  287  code .
+  288  git pull
+  289  git pull origin main
+  290  git pull
+  291  git pull
+  292  eval $(ssh-agent -s)
+  293  ls -al
+  294  cd ..
+  295  cd ..
+  296  ls -al
+  297  cd ssh
+  298  ls
+  299  ls -al
+  300  cd .ssh
+  301  ls -al
+  302  ssh-add /e/platzi/ssh/.ssh/id_rsa
+  303  clear
+  304  git pull 
+  305  cd ..
+  306  ;s
+  307  ls
+  308  cd ..
+  309  ls
+  310  cd git
+  311  ls
+  312  cd project2
+  313  git pull
+  314  git push
+  315  git commit
+  316  git add
+  317  git commit -am "con private/pub key BLOG Version 2.1"
+  318  git push
+  319  git pull
+  320  git status
+  321  mc
+  322  cd /e/platzi/git/project2
+  323  code .
+  324  eval $(ssh-agent -s)
+  325  ssh-add /e/platzi/ssh/.ssh/id_rsa
+  326  git pull
+  327  git pull
+  328  git commit -am "2do commit con SSH, 21 jul 2021, 21:21hs"
+  329  git push
+  330  git status
+  331  git add .
+  332  git push -ac "agrego SSH.TXT, con los comandos de poner las SSH Keys"
+  333  git commit -ac "agrego SSH.TXT, con los comandos de poner las SSH Keys"
+  334  git push 
+  335  git add .
+  336  git status
+  337  git commit -c "agrego SSH.TXT, con los comandos de poner las SSH Keys"
+  338  git push
+  339  pwd
+  340  ls
+  341  git log --all --grah
+  342  git  log
+  343  git log --all
+  344  git log --all --graph 
+  345  git log --all --graph --decorate --oneline
+  346  git log --all --graph --decorate 
+  347  git log --all --graph --decorate >>log-decorate.txt
+  348  git log --all --graph --decorate --oneline >>log-decorate.txt
+  349  git log --all --graph --decorate --oneline
+  350  clear
+  351  git log --all --graph --decorate --oneline
+  352  alias gittree "git log --all --graph --decorate --oneline"
+  353  alias gittree "git log --all --graph --decorate --oneline"
+  354  alias gittree="git log --all --graph --decorate --oneline"
+  355  gittree
+  356  git tag -a v0.1 -m "Result of first class of course, with Freddy"
+  357  git show-ref --tags
+  358  git status
+  359  git add .
+  360  git pull origin main
+  361  git add .
+  362  git commit -ac -m "con TAGs"
+  363  git commit -am "con TAGs"
+  364  git push 
+  365  git push origin --tags
+  366  gittree
+  367  git tag -a v0.2dormido -m "Dormido seguún Freddy"
+  368  git pull origin main
+  369  git push origin --tags
+  370  git tag -a v0.3MALO -m "MALO Dormido seguún Freddy"
+  371  git push
+  372  git push origin --tags
+  373  git tag -d v0.3MALO
+  374  git push origin --tags
+  375  git tag
+  376  git push origin :refs/tags/
+  377  git push origin :refs/tags/v0.3MALO
+  378  history 
+  379  history >>history_FREDDY.txt
