@@ -1,0 +1,57 @@
+git log --all --graph --decorate  >>log-decorate.txt
+====================================================
+* commit df9f7391c64dfa869b39a0fc148cf60dc60b4ac9 (HEAD -> main, origin/main)
+| Author: gab <gxsoft@gmail.com>
+| Date:   Wed Jul 21 21:21:52 2021 -0300
+| 
+|     2do commit con SSH, 21 jul 2021, 21:21hs
+| 
+* commit d1f46b1b45858403323b75c15e034fdf35ad8fb0
+| Author: Gabriel Medina <gxsoft@gmail.com>
+| Date:   Wed Jul 21 21:19:57 2021 -0300
+| 
+|     Update historia.txt
+| 
+* commit 8e9fa6dca02e1c23a00d00d42df88055c9d04640
+| Author: gab <gxsoft@gmail.com>
+| Date:   Wed Jul 21 20:17:06 2021 -0300
+| 
+|     con private/pub key BLOG Version 2.1
+| 
+* commit 653b6ca7b22371424eb7fe8d3b77b859387d0587
+| Author: Gabriel Medina <gxsoft@gmail.com>
+| Date:   Tue Jul 20 22:07:55 2021 -0300
+| 
+|     Title was changed from GitHUB ON Line
+|     
+|     Because I can
+|   
+*   commit 7ea9aa736376092b76972f535dc9c0f94f5c25ed
+|\  Merge: 783831c ee2dbf3
+| | Author: gab <gxsoft@gmail.com>
+| | Date:   Tue Jul 20 22:00:13 2021 -0300
+| | 
+| |     PUDE hacer algo que NO podia, pull the Unrelated=histories con el commando git: $ [git pull origin main --allow-unrelated-histories]
+| | 
+| * commit ee2dbf3a9b92d1aaac1bb7509b3bb15fa129cd58
+|   Author: Gabriel Medina <gxsoft@gmail.com>
+|   Date:   Tue Jul 20 21:45:02 2021 -0300
+|   
+|       Initial commit
+| 
+* commit 783831c008a9a30521b600ababf9a80851ca9137
+  Author: gab <gxsoft@gmail.com>
+  Date:   Tue Jul 20 21:51:45 2021 -0300
+  
+      initial commit disk e: , complete
+
+git log --all --graph --decorate --oneline >>log-decorate.txt
+=============================================================
+* df9f739 (HEAD -> main, origin/main) 2do commit con SSH, 21 jul 2021, 21:21hs
+* d1f46b1 Update historia.txt
+* 8e9fa6d con private/pub key BLOG Version 2.1
+* 653b6ca Title was changed from GitHUB ON Line
+*   7ea9aa7 PUDE hacer algo que NO podia, pull the Unrelated=histories con el commando git: $ [git pull origin main --allow-unrelated-histories]
+|\  
+| * ee2dbf3 Initial commit
+* 783831c initial commit disk e: , complete
